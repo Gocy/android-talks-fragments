@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fragments Example</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_item_detail">Item Detail</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_add">Add me</string>
+    <string name="nav_item_replace">Replace me</string>
+    <string name="nav_item_back_stack">BackStack example</string>
+    <string name="nav_item_master_detail">Master/Detail</string>
+
+    <string name="nav_header_title">Android Talks Fragments</string>
+    <string name="nav_header_subtitle">fragments@androidtalks.com</string>
+
+    <string name="added_fragment_text">This fragment is added and fragment state is not handled!</string>
+    <string name="replaced_fragment_text">This fragment is replaced and fragment state is properly handled!</string>
+    <string name="back_stack_fragment_text">This fragment is replaced and fragment state is not properly handled!</string>
+    <string name="text_hint">Add text here!</string>
+    <string name="btn_set_text">Set text</string>
+    <string name="btn_next_frag">Next</string>
+    <string name="web_url">http://softwarecity.hr/</string>
+    <string name="error_internet">No internet connection! :(</string>
+</resources>
